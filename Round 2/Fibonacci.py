@@ -1,8 +1,14 @@
 """
-        In other words, write it inside triple quotes like this
-        and place it right in the beginning of your program file.
-        Initial comment should explain who wrote the program and
-        what does it do.
+The two first numbers of the Fibonacci sequence are ones. The numbers after them are calculated by counting together the two preceding numbers, again and again. Implement a program that prints the Fibonacci sequence for a number of times set by the user:
+
+How many Fibonacci numbers do you want? 7
+1. 1
+2. 1
+3. 2
+4. 3
+5. 5
+6. 8
+7. 13  
         """
 def main():
     nterms = int(input("How many Fibonacci numbers do you want? "))

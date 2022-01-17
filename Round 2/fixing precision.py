@@ -1,8 +1,11 @@
 """
-        In other words, write it inside triple quotes like this
-        and place it right in the beginning of your program file.
-        Initial comment should explain who wrote the program and
-        what does it do.
+Format the program's printout so that in the first section,
+the approximate value of the pi is printed to the specificity of zero decimals
+(ie. as an integer) and, in the second section,
+to the specificity of four decimals.
+The program's printout should thus look like this:
+
+    The approximate value of pi is 3 or, if we want to get specific, 3.1416      
         """
 
 def main():

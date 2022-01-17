@@ -1,8 +1,29 @@
 """
-        In other words, write it inside triple quotes like this
-        and place it right in the beginning of your program file.
-        Initial comment should explain who wrote the program and
-        what does it do.
+      In the game Zip Boing players sit in a ring and call numbers in turns.
+      The first player says 1, the next one 2 and so forth.
+      The game is called Zip Boing because every time the next number is divisible
+      by 3 the player has to say "zip" and
+      every time the number is divisible by 7 the player has to say "boing".
+      Also, if the umber is divisible by both the numbers,
+      the player should say "zip boing".
+
+Implement a program that makes a cheat sheet for as many numbers as
+the player wants. T
+he program should first ask how many numbers the cheat sheet should include and
+then print them in correct order (with all the zips, boings and zip boings).
+
+
+How many numbers would you like to have? 10
+1
+2
+zip
+4
+5
+zip
+boing
+8
+zip
+10
         """
 
 def main():
