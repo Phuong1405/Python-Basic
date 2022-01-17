@@ -1,8 +1,19 @@
 """
-        In other words, write it inside triple quotes like this
-        and place it right in the beginning of your program file.
-        Initial comment should explain who wrote the program and
-        what does it do.
+Create a program that prints all the dates of a year which is not leap year:
+1.1.
+2.1.
+3.1.
+4.1.
+5.1.
+...
+31.1.
+1.2.
+2.2.
+3.2.
+...
+28.2.
+1.3.
+...
         """
 
 

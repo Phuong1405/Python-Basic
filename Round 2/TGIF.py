@@ -1,8 +1,6 @@
 """
-        In other words, write it inside triple quotes like this
-        and place it right in the beginning of your program file.
-        Initial comment should explain who wrote the program and
-        what does it do.
+        Create a program that prints the dates for all the Fridays in 2014.
+        In 2014, the first Friday was 3.1.
         """
 
 def main():
