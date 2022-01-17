@@ -1,3 +1,19 @@
+"""Write a program that asks how much study benefits the user receives and calculates how a 1,17 percent index raise affects the benefits. The program prints the following:
+
+Enter the amount of the study benefits: 335.32
+If the index raise is 1.17 percent, the study benefit,
+after a raise, would be 339.243244 euros
+
+Let’s be optimistic about the future and add another index raise to our program. Now the program prints the following:
+
+Enter the amount of the study benefits: 335.32
+If the index raise is 1.17 percent, the study benefit,
+after a raise, would be 339.243244 euros
+and if there was another index raise, the study
+benefits would be as much as 343.2123899548 euros
+
+"""
+
 def main():
     amount = float(input("Enter the amount of the study benefits: "))
 

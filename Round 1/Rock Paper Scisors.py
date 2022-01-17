@@ -1,3 +1,18 @@
+"""
+Player 1, enter your choice (R/P/S): P
+Player 2, enter your choice (R/P/S): S
+Player 2 won!
+Player 1, enter your choice (R/P/S): P
+Player 2, enter your choice (R/P/S): R
+Player 1 won!
+Player 1, enter your choice (R/P/S): R
+Player 2, enter your choice (R/P/S): S
+Player 1 won!
+Player 1, enter your choice (R/P/S): S
+Player 2, enter your choice (R/P/S): S
+It's a tie!
+"""
+
 def main():
     Person1 = str(input("Player 1, enter your choice (R/P/S): "))
     Person2 = str(input("Player 2, enter your choice (R/P/S): "))

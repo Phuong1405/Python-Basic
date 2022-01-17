@@ -1,3 +1,33 @@
+"""
+Purchase price: 12
+Paid amount of money: 50
+Offer change:
+3 ten-euro notes
+1 five-euro notes
+1 two-euro coins
+1 one-euro coins
+
+Purchase price: 11
+Paid amount of money: 50
+Offer change:
+3 ten-euro notes
+1 five-euro notes
+2 two-euro coins
+
+Purchase price: 9
+Paid amount of money: 20
+Offer change:
+1 ten-euro notes
+1 one-euro coins
+
+Purchase price: 12
+Paid amount of money: 12
+No change
+Purchase price: 23
+Paid amount of money: 15
+No change"""
+
+
 def main():
 
     cost = int(input("Purchase price: "))
