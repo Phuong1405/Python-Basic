@@ -1,8 +1,15 @@
 """
-       In other words, write it inside triple quotes like this
-       and place it right in the beginning of your program file.
-       Initial comment should explain who wrote the program and
-       what does it do.
+s = (a+b+c)/2
+
+dien tich = Can bac 2(s.(s-a).(s-b).(s-c))
+
+An example of how the program operates:
+
+Enter the length of the first side: 2.5
+Enter the length of the second side: 3
+Enter the length of the third side: 4.5
+The triangle's area is 3.5
+       
        """
 from math import sqrt
 

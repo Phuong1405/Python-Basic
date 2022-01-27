@@ -2,6 +2,24 @@
 COMP.CS.101 Programming 1
 Code template for Paracetamol
 VU TU PHUONG NGUYEN
+
+
+Parasetamol (also known as Panadol® or Tylenol®), a drug for pain and fever, can be administered to an adult patient in doses of 15 mg per kilogram of weight, once every six hours. The daily dose cannot be over 4000 mg.
+
+Implement a function calculate_dose, which calculates
+and returns a correct dose when the following initial values
+are given as parameters in the following order: patient's weight,
+the time from receiving the previous dose, the previous daily ratio.
+The function processes all information (including the weight) as integers.
+
+Patient's weight (kg): 50
+How much time has passed from the previous dose (full hours): 6
+The total dose for the last 24 hours (mg): 750
+The amount of Parasetamol to give to the patient: 750
+Patient's weight (kg): 80
+How much time has passed from the previous dose (full hours): 7
+The total dose for the last 24 hours (mg): 3600
+The amount of Parasetamol to give to the patient: 400
 """
 def read_int(prompt):
     """read_int sets the loop while to get the answer"""
