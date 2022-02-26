@@ -1,6 +1,36 @@
 """
 COMP.CS.101 Programming 1
 Assignment "Improved Box Printing" code template
+
+Implement a new, improved version of the previously implemented function print_box.
+This time, the printing of the box uses two different print marks: One for printing the box's edge, the other for printing the box's inner part.
+The default values of the print marks are "#" and " ". Parameters have also been named, as you can see from the pre-prepared main program.
+Add the implementation of the function to the code template.
+When using the template main the program should print:
+
+#####
+#   #
+#   #
+#####
+
+***
+* *
+* *
+* *
+* *
+* *
+* *
+***
+
+OOOOO
+OoooO
+OoooO
+OOOOO
+
+OOOOOO
+O....O
+O....O
+OOOOOO
 """
 
 # TODO: the definition of print_box goes here unless it goes after main.
