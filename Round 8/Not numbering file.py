@@ -1,5 +1,16 @@
 """Vu Tu Phuong Nguyen
-Programming 1"""
+Programming 1
+
+Add a check that the file exists and can be read to the program. If the user enters a name of a file that cannot be read the program, show an error message as in the following example run:
+
+Enter the name of the file: thiswillnotbefound.txt
+There was an error in reading the file.
+Programming tips:
+
+If the opening of the file fails, the Python interpreter announces this error
+using an exception. Thus, you should add a try-except framework where
+you handle this exception to the program you implemented in the previous task.
+"""
 
 
 
